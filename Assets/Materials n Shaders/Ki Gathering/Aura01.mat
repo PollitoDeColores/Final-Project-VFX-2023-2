@@ -44,7 +44,7 @@ Material:
     m_Floats:
     - _DissolveScale: 0
     m_Colors:
-    - _Color: {r: 6.389859, g: 6.389859, b: 6.389859, a: 1}
+    - _Color: {r: 8.20904, g: 8.20904, b: 8.20904, a: 1}
     - _Main_TxtSpeed: {r: 0, g: 0, b: 0, a: 0}
     - _Main_TxtTiling: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
